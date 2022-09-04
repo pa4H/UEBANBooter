@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\UEBAnBooter\UEBAnBooter\bin\Release\UEBAnBooter.exe
+C:\Users\User\Desktop\UEBAnBooter\UEBAnBooter\bin\Release\UEBAnBooter.pdb
+C:\Users\User\Desktop\UEBAnBooter\UEBAnBooter\obj\x86\Release\UEBAnBooter.Form1.resources
+C:\Users\User\Desktop\UEBAnBooter\UEBAnBooter\obj\x86\Release\UEBAnBooter.Properties.Resources.resources
+C:\Users\User\Desktop\UEBAnBooter\UEBAnBooter\obj\x86\Release\UEBAnBooter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\UEBAnBooter\UEBAnBooter\obj\x86\Release\UEBAnBooter.exe
+C:\Users\User\Desktop\UEBAnBooter\UEBAnBooter\obj\x86\Release\UEBAnBooter.pdb
